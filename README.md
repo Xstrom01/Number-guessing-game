@@ -1,4 +1,6 @@
-# Number-guessing-game
+# Number-guessing-game 
+This is number guessing game ushing java programming 
+
 🔹 Program Flow
 
 1. Welcome & Instructions
